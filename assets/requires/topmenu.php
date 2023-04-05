@@ -1,5 +1,5 @@
 <input type="hidden" id="txtpath" value="<?php echo PATH;?>">
-<input type="hidden" id="txtkey" value="<?php echo $key;?>">
+<!-- <input type="hidden" id="txtkey" value="<?php echo $key;?>"> -->
 <nav class="navbar navbar-fixed-top">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
