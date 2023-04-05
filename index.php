@@ -9,11 +9,11 @@
 
     <div class="container">
         <div id="jdlaccr" style="font-size:36px;color:brown;">Harber Web</div>
-        <div class="card shadow-sm mb-5 bg-black rounded">
-            <!-- <img class="card-img-top" src="..." alt="Card image cap">!-->
+        <div class="card shadow-sm mb-5 bg-black rounded"> 
             <div class="card-body" >
                 <h5 class="card-title">Input Name:</h5>
-                <p class="card-text"><input type="text" class="input input-lg" style="width:100%;" id="srchInv"></p>
+                <p class="card-text">
+                    <input type="text" class="input input-lg" style="width:100%;" id="srchInv"></p>
             </div>
             <div class="card-footer">
                 <button class="btn btn-primary" id="btnsearch">Submit</button>

@@ -13,7 +13,3 @@
 <script src="./bootstrap/js/bootstrap.js"></script>
 <script src="./bootstrap/js/bootstrap.min.js"></script>
 <script src="./sweetalert/sweetalert.min.js"></script>
-
-<link rel="icon" href=".\img\logo\cappa_icon.jpg">
-<?php include 'menuall.php';
-?>

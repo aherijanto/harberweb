@@ -1,0 +1,31 @@
+FOR LINUX USERs
+---------------------------------------------
+sudo apt install apache2
+sudo apt install php
+sudo apt install mariadb-server
+sudo apt install phpmyadmin
+sudo chmod 777 -R /var/www/
+sudo mkdir harber2e (untuk kelas 2E)
+sudo mkdir harber2d (untuk kelas 2D)
+sudo chmod 777 -R /var/www/harber2e (untuk kelas 2E)
+sudo chmod 777 -R /var/www/harber2d (untuk kelas 2D)
+
+FOR LINUX AFTER WEBSERVER --> GO TO /var/www/harber2e(untuk kelas 2E)
+                          --> GO TO /var/www/harber2d(untuk kelas 2D)
+----------------------------------------------------------
+Buatlah folder 'assets'
+Buatlah folder 'requires' dalam folder 'assets'
+Buatlah folder 'scripts' dalam folder 'assets'
+Buatlah folder 'ajax' dalam folder '/assets/scripts'
+Buatlah folder 'js' dalam folder '/assets/scripts'
+
+
+FOR WINDOWS AFTER INSTALL XAMPP --> GO TO c:/xampp/htdocs
+----------------------------------------------------------
+Buatlah folder 'assets'
+Buatlah folder 'requires' dalam folder 'assets'
+Buatlah folder 'scripts' dalam folder 'assets'
+Buatlah folder 'ajax' dalam folder '/assets/scripts'
+Buatlah folder 'js' dalam folder '/assets/scripts'
+
+copy hasil extract .zip ke c:/xampp/htdocs/

@@ -1,5 +1,6 @@
 <?php
-define('APPNAME', 'CappaInvent');
-define('PATH', 'http://matahari.local/');
+define('APPNAME', 'Harber Web');
+define('PATH', 'http://localhost/');
 define('SITE_ROOT', __DIR__);
 define('MYROOT', $_SERVER['DOCUMENT_ROOT']);
+?>
