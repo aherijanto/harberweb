@@ -3,8 +3,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">  
     </head>
     <?php
+    
         require_once('./assets/requires/config.php');
         require_once('./assets/requires/header1.php');
+        
     ?>
 
     <div class="container">
